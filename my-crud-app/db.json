@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "bd6b",
+      "name": "PEDRO GOMES DE ALMEIDA",
+      "description": "jgugug",
+      "price": "05",
+      "quantity": "03"
+    },
+    {
+      "id": "3464",
+      "name": "Maxwell Henrique da Silva",
+      "description": "jbj",
+      "price": "7",
+      "quantity": "4"
+    }
+  ]
+}
